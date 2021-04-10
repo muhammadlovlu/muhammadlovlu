@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, Tech, Automotive, CyberSecurity & more.
 - 🌱 I’m currently learning React is my ultimate goal in 2021.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Lets connect - www.instagram.com/muhammad_lovlu_chy
+- 📫 Let's connect - www.instagram.com/muhammad_lovlu_chy
 
 <!---
 muhammadlovlu/muhammadlovlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
